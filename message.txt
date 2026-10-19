@@ -1,1 +1,2 @@
 Bienvenue dans mon nouveau projet Git.
+Amelioration proposee par le collegue.
