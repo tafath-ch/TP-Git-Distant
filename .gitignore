@@ -1,0 +1,6 @@
+# Fichiers temporaires
+*.tmp
+*.log
+
+# Fichiers de configuration locale
+.env
